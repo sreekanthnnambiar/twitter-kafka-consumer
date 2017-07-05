@@ -1,0 +1,15 @@
+{
+  "name": "twitter-kafka-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kafkaConsumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^3.2.2",
+    "kafka-node": "^1.6.2"
+  }
+}
